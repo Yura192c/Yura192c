@@ -7,7 +7,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/yura-mironchik-57104826a/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="LinkedIN" width="22px" src="https://img.shields.io/badge/-blue?style=flat-square&logo=linkedin" />
 </a>
 
 </br>
