@@ -1,4 +1,4 @@
-## Hi there 👋 I'm a junior python Full-Stack developer
+## Hi there 👋 I'm a junior python backend developer
 
 
 
